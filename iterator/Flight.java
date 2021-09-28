@@ -32,6 +32,12 @@ public class Flight {
         return this.transfers;
     }
 
+    private String stringDuration() {
+        String output = "";
+        this.duration / 60
+        return output;
+    }
+
     public String toString() {
         String output = "";
         output = "Flight Number: " + getFlightNum()

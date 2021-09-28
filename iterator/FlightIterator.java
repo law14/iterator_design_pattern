@@ -1,4 +1,4 @@
-public class FlightIterator implements Iterator {
+public class FlightIterator implements java.util.Iterator<Object> {
     private Flight[] flights;
     private int position;
 

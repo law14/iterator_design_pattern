@@ -1,3 +1,4 @@
+/*
 public class Tester {
     public static void main(String[] args) {
         Flight flightTest = new Flight("13", "Jamacia", "SC", 180, 1);
@@ -5,3 +6,4 @@ public class Tester {
     }
     
 }
+*/
